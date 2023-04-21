@@ -1,3 +1,11 @@
+<%-- 
+    Document   : index
+    Created on : 21 abr. de 2023, 17:21:08
+    Author     : Ysai
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
 <!DOCTYPE html>
 <html>
     <head>
